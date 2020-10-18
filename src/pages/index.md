@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Web Hosting BD
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Web Hosting BD
+subheading: Bast Web Hosting Company In Bangladesh
 mainpitch:
-  title: Why Kaldi
+  title: Why Web Hosting Company is Bast 
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Our Data Centers
+To provide you with the fastest access time, reliability, and disaster recovery, we use some of the most advanced datacenters in the USA & Germany. These are equipped with- multiple backbone Internet lines, backup power diesel generators, backup tape libraries, 24/7 surveillance ensuring speed, safety, and redundancy. All of our servers are highly available, and equipped with 100% redundant components! Unlike some of our competitors we never use cheap, unreliable, or non-enterprise hard drives.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+   Ultra Fast & Secure Servers
+All of our nodes are equipped with the latest & fastest Intel/AMD enterprise processors, latest technology RAM, allowing for plenty of resources for all clients hosted. Protected by CISCO, and application firewalls we offer better security, and protection for common attacks. Using a combination of proprietary software and hardware technologies along with advanced system administration techniques, we are able to offer a faster Hosting environment, thus offering you and your visitors a better overall web experience.
 intro:
   blurbs:
     - image: /img/coffee.png
